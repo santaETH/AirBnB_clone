@@ -1,6 +1,6 @@
-## 0x00. AirBnB clone - The console
+# 0x00. AirBnB clone - The console
 
-# This is an AirBnB clone, the console project completed by two people:
+### This is an AirBnB clone, the console project completed by two people:
 
-. Sentayehu
-. Soumanou
+- Sentayehu
+- Soumanou
