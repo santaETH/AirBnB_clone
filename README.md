@@ -3,6 +3,7 @@
 ### Project Description
 This repository is the initial stage of ALX Group project to create the replica of of the AirBnB website. in this initial stage, a backend  interface, and console, has been implmented to manage Object data. The console commandsenable user to create, update, and delete, objects as well as file storage. through JSON Serialization/Deserialization and the storage remain persistent between session.
 
+<<<<<<< HEAD
 ### Command Interpreter Description
 The command interpreter is a crucial part of AirBnB clone, the console project. it provide an interacrive shell for the user to interact with the application. it act as text based interface where user can input commands to carry out diffrent operations like:
 
@@ -28,3 +29,7 @@ $
 
 1. Sentayehu Demissie
 2. Abdoul azize
+=======
+- Sentayehu
+- Abdoul azize
+>>>>>>> 1e75770bbb81fd7849b518494bd33ecf2e8bff8f
