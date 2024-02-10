@@ -11,10 +11,10 @@ The command interpreter is a crucial part of AirBnB clone, the console project. 
 - `update` Update an object based on class and UUID and update existing attribute.
 - `quit` Quit the program will exit and EOF need as well.
 
-## Examples:
+### Examples:
 
-```
 Its shows the command interpriter, how to use interactive mode:
+```
 
 	$ ./console.py
 	(hbnb) help
