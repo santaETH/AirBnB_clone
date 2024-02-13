@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-""" Implementing the console module for the command interprter """
+""" This module Implementing for console AirBnB project """
 
 import cmd
 import json
@@ -14,7 +14,6 @@ from models.city import City
 from models.place import Place
 from models.review import Review
 from models.amenity import Amenity
-
 
 def parse(arg):
     curly_braces = re.search(r"\{(.*?)\}", arg)
